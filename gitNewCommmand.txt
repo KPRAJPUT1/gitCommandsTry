@@ -1,1 +1,5 @@
-git commit : To commit a change
+git commit : To commit a change, whic opens a file where commit message can be placed
+git commit -m "message" : To avoid the above step
+git  config --global : To open the file with username and email
+git config --global user.mae "Krishna" : To change the user name
+git config --global user.email "emailaddress" : To change the email address
