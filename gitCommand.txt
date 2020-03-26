@@ -7,6 +7,7 @@ git checkout branch_name : To switch to the new branch with  the name branch_nam
 <<<<<<< HEAD
 git checkout master : Move back to the master branch
 git merge branch_name : TO merge the branch branch_name to the master brach at the current node
+<<<<<<< HEAD
 =======
 git checkout -b branch_name : TO create and move to the new branch
 git remote add origin "link" : To sync the remote repo and local repo
@@ -19,3 +20,6 @@ git push origin branch4: TO pull the branch4 to the remote repo
 =======
 git merge branch_name ": To merge the branch branch_name into the branch you are checkout it
 >>>>>>> branch1
+=======
+git checkout -b branch_name : To directly make and checkout ot the new branch branch_nME
+>>>>>>> branch2
