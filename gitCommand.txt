@@ -6,3 +6,4 @@ git branch branch_name : To create a new branch from the current node
 git checkout branch_name : To switch to the new branch with  the name branch_name
 git checkout master : Move back to the master branch
 git merge branch_name : TO merge the branch branch_name to the master brach at the current node
+git checkout -b branch_name : To directly make and checkout ot the new branch branch_nME
