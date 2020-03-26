@@ -4,3 +4,5 @@ git add *.text : To add all the files with extension .txt in the staging area
 git add . : To add all the files in the staging area
 git branch branch_name : To create a new branch from the current node
 git checkout branch_name : To switch to the new branch with  the name branch_name
+git checkout master : Move back to the master branch
+git merge branch_name : TO merge the branch branch_name to the master brach at the current node
