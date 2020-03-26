@@ -14,4 +14,8 @@ git pull origin master : To pull the master branch
 git fetch --all : To pull all the branches
 git branch branch4: To vcreate a new branch locally
 git push origin branch4: TO pull the branch4 to the remote repo
+<<<<<<< HEAD
+>>>>>>> branch1
+=======
+git merge branch_name ": To merge the branch branch_name into the branch you are checkout it
 >>>>>>> branch1
